@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://dev.to/https://dev.to/bhavesh1456" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/bhavesh1456" height="30" width="40" /></a>
 <a href="https://twitter.com/bhavesh1456" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhavesh1456" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/bhavesh-thale-741991167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/bhavesh-thale-741991167" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/bhavesh-thale-741991167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/bhavesh-thale-741991167" height="30" width="40" /></a>
 </p>
 
 ### 🛠 &nbsp;Tech Stack
@@ -44,7 +44,7 @@
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio%20-333333?style=flat&logo=android-studio&logoColor=007ACC)
 
 # GitHub Stats
-![Rohit Kumar Saini's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavesh1456)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavesh1456)
 
 
 
